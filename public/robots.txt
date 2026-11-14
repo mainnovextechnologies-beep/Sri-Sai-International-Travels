@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Replace with final deployed domain before publishing
+# Sitemap: https://YOUR-DOMAIN/sitemap.xml
